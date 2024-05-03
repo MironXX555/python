@@ -1,0 +1,3 @@
+Сначала запустите install_modules.bat или как там его...
+
+Потом запустите generator.py (Вот туториал как открывать .py файлы: **https://telegra.ph/Kak-otkryt-py-fajl-05-03**)
