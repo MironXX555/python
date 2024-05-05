@@ -1,0 +1,1 @@
+запусти calculator.exe
